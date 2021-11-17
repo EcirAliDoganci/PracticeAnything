@@ -1,0 +1,15 @@
+﻿{
+  "Id": "EjRd45lchk-B0FvK8tc3Mw",
+  "Reference": "s2WWb27uQUq6CqgZoy5VRA/EjRd45lchk-B0FvK8tc3Mw",
+  "ParentRef": "s2WWb27uQUq6CqgZoy5VRA/TdpaHoJGhkKZEoeTUVYvlg",
+  "Name": "Use Browser Chrome Rpa Challenge",
+  "Description": "Type the values for First Name and Last Name for a Notepad file.",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-10-27T11:11:35.0118647Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-10-27T11:11:35.0118647Z"
+}
