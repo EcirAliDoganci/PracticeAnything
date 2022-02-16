@@ -1,7 +1,7 @@
 {
-  "name": "Practice for RegEx",
+  "name": "Practice for anything",
   "description": "Practice for RegEx, List, String manipulation.",
-  "main": "Main.xaml",
+  "main": "StateMachineTest.xaml",
   "dependencies": {
     "UiPath.Database.Activities": "[1.4.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
@@ -14,9 +14,8 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.6",
   "runtimeOptions": {
-    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
     "autoDispose": false,
     "isPausable": true,
     "isAttended": false,
@@ -52,14 +51,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "ChooseName.xaml",
-      "uniqueId": "e5d828e1-1baa-4081-9525-9d909b447c03",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Main.xaml",
-      "uniqueId": "016e4c16-cd46-449d-b9ad-66416aa11b9b",
+      "filePath": "StateMachineTest.xaml",
+      "uniqueId": "f629813e-ae15-4099-8f07-171ea69e5e3f",
       "input": [],
       "output": []
     }
